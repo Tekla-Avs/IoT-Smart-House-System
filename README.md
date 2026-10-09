@@ -20,6 +20,13 @@ Motion detectection sensor HC-SR501
 |  GND     |         marcx
 
 
+Gas and Smoke Sensor MQ-2 
+
+| MQ-2 | ESP32 |
+|------|-------|
+
+
+
 
 | RFID - RC522| ESP32|
 |-------------|------|
